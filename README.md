@@ -11,7 +11,7 @@ Soy un entusiasta de la tecnología con experiencia en **automatización de proc
 ### 🔧 Habilidades técnicas:
 - **Lenguajes de programación**: Python, C/C++, Visual Basic, Matlab
 - **Plataformas**: STM32, Arduino, Raspberry Pi
-- **Herramientas de automatización**: Power Automate, UiPath, SAP
+- **Herramientas de automatización**: Macros Excel, Python, SAP Scripting
 - **Desarrollo de software**: Git, GitHub, Bash
 - **Redes y comunicaciones**: Modbus, Protocolo TCP/IP
 
