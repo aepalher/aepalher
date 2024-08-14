@@ -1,12 +1,46 @@
-<h1 align="center">Hi 👋, I'm Andrés Palomino</h1>
-<h3 align="center">Electronic engineering student and passionate about programming</h3>
+# ¡Hola! 👋 Soy Andrés Palomino! Algunos amigos me conocen como Eduardo Palomino 😉.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aepalher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aepalher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aepalher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aepalher" height="30" width="40" /></a>
-<a href="https://instagram.com/aepalher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aepalher" height="30" width="40" /></a>
-</p>
+### Sobre mí
+Soy un entusiasta de la tecnología con experiencia en **automatización de procesos**, **ingeniería electrónica**, y **desarrollo de software**. Actualmente trabajo en el área de **automatización y control de procesos**, donde combino mis habilidades en **electrónica** y **programación** para crear soluciones eficientes y seguras. También tengo un gran interés en **inteligencia artificial** y **ciberseguridad**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌱 En lo que estoy trabajando:
+- **[Proyecto 1: Sistema de Detección de Somnolencia](#)**: Desarrollo de un sistema para detectar la somnolencia en conductores utilizando técnicas de **deep learning**.
+- **[Proyecto 2: Automatización en SAP](#)**: Creación de macros en Excel para automatizar la carga de datos en SAP.
+- **[Proyecto 3: Control de Procesos con STM32](#)**: Diseño y programación de sistemas embebidos para el control de procesos industriales utilizando microcontroladores STM32.
+
+### 🔧 Habilidades técnicas:
+- **Lenguajes de programación**: Python, C/C++, Visual Basic, Matlab
+- **Plataformas**: STM32, Arduino, Raspberry Pi
+- **Herramientas de automatización**: Power Automate, UiPath, SAP
+- **Desarrollo de software**: Git, GitHub, Bash
+- **Redes y comunicaciones**: Modbus, Protocolo TCP/IP
+
+### 💻 Proyectos destacados:
+- **[Sistema de Monitoreo de Plantas Industriales](#)**: Un sistema integral para el monitoreo y control de procesos industriales en tiempo real.
+- **[Implementación de RPA para Procesos Financieros](#)**: Desarrollo de bots para la automatización de tareas repetitivas en el área financiera.
+
+### 📚 Educación:
+- **Ingeniería Electrónica** - Universidad Nacional de Ingeniería (UNI)
+- Cursos en **Machine Learning**, **Deep Learning**, y **Control de Procesos**
+
+### 🚀 Próximos pasos:
+- Mejorar mis habilidades en **ciberseguridad**.
+- Colaborar en proyectos de **inteligencia artificial** y **machine learning** aplicados a la industria.
+- Explorar más sobre **IoT** y su aplicación en automatización industrial.
+
+### 💬 Conectemos:
+- **Correo**: [andres.palomino.h@uni.pe](mailto:andres.palomino.h@uni.pe)
+- **LinkedIn**: [linkedin.com/in/aepalher](https://www.linkedin.com/in/aepalher/)
+
+### 🌟 Intereses:
+- **Automatización Industrial**
+- **Machine Learning & AI**
+- **Ciberseguridad**
+- **Control de Procesos**
+
+### 🤝 ¿Colaboramos?
+Estoy abierto a colaborar en proyectos innovadores, compartir conocimiento y aprender de la comunidad. No dudes en contactarme si tienes alguna idea o proyecto en mente.
+
+---
+
+_Gracias por visitar mi perfil. ¡Nos vemos en el código!_
