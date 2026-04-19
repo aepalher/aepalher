@@ -9,7 +9,7 @@ Me entusiasma la oportunidad de aprender, crecer y contribuir activamente en el 
 ### 🔧 Habilidades técnicas:
 - **Lenguajes de programación**: Python, C/C++, Visual Basic, Matlab
 - **Plataformas**: Arduino, Raspberry Pi
-- **Herramientas de automatización de procesos**: Macros Excel, Python, SAP Scripting
+- **Herramientas de automatización de procesos**: Macros Excel, Python, SAP Scripting, UiPath
 - **Desarrollo de software**: Git, GitHub, Bash
 - **Redes y comunicaciones**: Modbus, Protocolo TCP/IP
 
@@ -18,14 +18,11 @@ Me entusiasma la oportunidad de aprender, crecer y contribuir activamente en el 
 - **LinkedIn**: [linkedin.com/in/aepalher](https://www.linkedin.com/in/aepalher/)
 
 ### 🌟 Intereses:
-- **Automatización Industrial**
 - **Machine Learning & AI**
-- **Ciberseguridad**
-- **Control de procesos industriales**
 - **Automatización de Procesos**
-
-### 🤝 ¿Colaboramos?
-Estoy abierto a colaborar en proyectos innovadores, compartir conocimiento y aprender de la comunidad. No dudes en contactarme si tienes alguna idea o proyecto en mente.
+- **Ciberseguridad**
+- **Automatización Industrial**
+- **Control de procesos industriales**
 
 ---
 _Gracias por visitar mi perfil._
